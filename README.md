@@ -32,7 +32,7 @@ Software Requirements:
 UML & Design Diagrams:
 ----------------------
 - ER Diagram: Represents the database schema and relationships.  
-- Use Case Diagram: Shows the system functionalities for different roles (Civilian, Officer, Admin).  
+- Use Case Diagram: Shows the system functionalities for different roles (Civilian and Officer).  
 - Class Diagram: Represents the structure of classes and their relationships in the backend code.  
 - Sequence Diagram: Describes the flow of data during operations such as filing complaints or viewing records.  
 - Activity Diagram: Details the step-by-step user actions and process flow within the system.  
